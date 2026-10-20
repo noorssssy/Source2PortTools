@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/izzetyarali-arch/Source2PortTools/releases/latest"><b>⬇ Download</b></a> ·
-  <a href="https://discord.gg/TnfQdnaF7g"><b>💬 Discord</b></a> ·
+  <a href="https://discord.gg/Kwc4ZZNqfN"><b>💬 Discord</b></a> ·
   <a href="https://github.com/izzetyarali-arch/Source2PortTools/issues/new/choose"><b>🐞 Report a Bug</b></a>
 </p>
 
