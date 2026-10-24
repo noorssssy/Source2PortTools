@@ -170,7 +170,7 @@ Source2PortTools-cli decompile "models/alyx.mdl" "output/alyx"
 
 ## Found a bug?
 
-[Open an issue](https://github.com/izzetyarali-arch/Source2PortTools/issues/new/choose) or tell us on [Discord](https://discord.gg/TnfQdnaF7g). Please attach:
+[Open an issue](https://github.com/izzetyarali-arch/Source2PortTools/issues/new/choose) or tell us on [Discord](https://discord.gg/Kwc4ZZNqfN). Please attach:
 - the latest run log from the `logs` folder (`Run_Log_....txt`) and `source2porttools.log` (next to the executable),
 - the `.dmp` file from the `crash` folder if it crashed,
 - the name/path of the file that failed and a screenshot.
